@@ -56,5 +56,9 @@
     "rollup-plugin-terser": "^7.0.2",
     "rollup-plugin-zip": "^1.0.3",
     "svelte": "^3.46.4"
+  },
+  "dependencies": {
+    "sass": "^1.54.3",
+    "svelte-preprocess-cssmodules": "^2.2.3"
   }
 }
